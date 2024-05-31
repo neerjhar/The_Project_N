@@ -4,7 +4,7 @@ This project is to manage your password using the terminal language or the bash 
 
 ## Steps to download and run this project...
 - pip install pyfiglet (run this on your terminal)
-- git clone
+- git clone https://github.com/neerjhar/The_Project_N
 - cd The_Project_N
 - chmod +x N.sh
 - ./N.sh
