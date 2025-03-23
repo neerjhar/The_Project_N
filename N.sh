@@ -28,7 +28,7 @@ start_phishing() {
         sleep 3
         python3 main.py
         sleep 2
-        echo "He..He I got your password...😝"
+        echo "You are safe...safe with me"
 
 }
 
